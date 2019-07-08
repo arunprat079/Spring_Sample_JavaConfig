@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="E:/New folder (2)/spring-beans-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="lib" path="E:/New folder (2)/spring-beans-4.3.9.RELEASE-javadoc.jar"/>
 	<classpathentry kind="lib" path="E:/New folder (2)/spring-beans-4.3.9.RELEASE-sources.jar"/>
@@ -12,5 +16,64 @@
 	<classpathentry kind="lib" path="E:/New folder (3)/spring-aop-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="lib" path="E:/New folder (3)/spring-context-4.3.9.RELEASE.jar"/>
 	<classpathentry kind="lib" path="E:/New folder (3)/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/activation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/asm-attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/cglib-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-email-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/dumbster-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/hibernate-commons-annotations-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/hibernate-search-3.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/jaxb-impl-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/lucene-highlighter-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/quartz-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-aop-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-asm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-beans-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-context-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-core-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-expression-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-jdbc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-orm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-tx-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-web-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/spring-webmvc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/xalan-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/xml-apis-1.3.02.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arpratap/MyWorks/lib/xom-1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
